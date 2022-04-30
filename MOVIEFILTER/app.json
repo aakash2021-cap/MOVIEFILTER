@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/aakash2021-cap/MOVIEFILTER",
-    "repository": "https://github.com/aakash2021-cap/MOVIEFILTER",
+    "website": "https://github.com/aakash2021-cap/MOVIEFILTER.git",
+    "repository": "https://github.com/aakash2021-cap/MOVIEFILTER/tree/main/MOVIEFILTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
